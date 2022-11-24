@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "datagile_testtask_1/1.0.0": {
+        "runtime": {
+          "datagile_testtask_1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "datagile_testtask_1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
